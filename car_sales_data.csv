@@ -1,0 +1,7 @@
+Model,Year,Region,Fuel_Type,Transmission,Price_USD,Sales_Volume,Total_Revenue
+Tesla Model 3,2023,America,Electric,Automatic,55000.0,150.0,8250000.0
+Ford Escape,2022,America,Petrol,Manual,28000.0,110.0,3080000.0
+BMW X5,2021,Europe,Petrol,Automatic,50000.0,60.0,3000000.0
+Mercedes GLC,2023,Europe,Diesel,Automatic,52000.0,90.0,4680000.0
+BMW X3,2022,Asia,Petrol,Automatic,35000.0,120.0,4200000.0
+Audi Q5,2023,Asia,Diesel,Manual,40000.0,80.0,3200000.0
